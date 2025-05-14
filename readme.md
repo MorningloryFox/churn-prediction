@@ -101,7 +101,7 @@ Dataset público: [Kaggle - Telco Customer Churn](https://www.kaggle.com/dataset
 
 ## ✍️ Autor
 
-**[Seu Nome Aqui]**  
+**[Daniel Alfredo Silva dos Santos]**  
 Analista de Dados com foco em Ciência de Dados e BI  
 [(https://br.linkedin.com/in/das1)]
 
